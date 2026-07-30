@@ -18,3 +18,4 @@ INSERT INTO employee (EmpID, Name, Department, Salary, Age, City) VALUES
 (107, 'Vijay', 'Finance', 65000, 32, 'Trichy'),
 (108, 'Anitha', 'Marketing', 48000, 26, 'Chennai');
 SELECT * FROM employee WHERE Salary > 60000;
+SELECT * FROM employee WHERE Salary > 60000;
